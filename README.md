@@ -5,7 +5,6 @@
 Soy un desarrollador **proactivo y disruptivo**, apasionado por **JavaScript y Python**, con enfoque en **Django y Angular**. Me encanta construir soluciones tecnológicas eficientes y escalables. Manejo **Node.js, SQL, PostgreSQL y AWS**, siempre buscando optimizar procesos y mejorar la experiencia del usuario.  
 
 ## 🏢 Sobre Mí  
-💡 CEO de **Ingenio**, empresa dedicada a soluciones tecnológicas.  
 ⚡ **Amante del buen gusto** en el código, diseño y arquitectura de software.  
 🔍 En constante aprendizaje y exploración de nuevas tecnologías.  
 
