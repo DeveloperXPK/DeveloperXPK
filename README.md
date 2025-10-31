@@ -33,17 +33,9 @@ Soy un desarrollador **proactivo y disruptivo**, apasionado por **JavaScript y P
 📌 Desarrollo de software a medida.  
 📌 Consultoría en soluciones tecnológicas.  
 📌 Implementación de APIs y sistemas escalables.  
-📌 Arquitectura de software con **Django**, **Node.js** y **AWS**.  
+📌 Arquitectura de software con **PHP** y **Node.js**.  
 
 _📩 ¿Tienes un proyecto en mente? ¡Hablemos!_  
-
----
-
-## 📊 GitHub Stats  
-
-✨ Este año llevo **355 contribuciones** (y muchas más en ramas privadas).  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperXPK&show_icons=true&theme=radical)  
 
 ---
 
@@ -51,15 +43,5 @@ _📩 ¿Tienes un proyecto en mente? ¡Hablemos!_
 
 📌 **LinkedIn**: [Andrés Giraldo](https://www.linkedin.com/in/andres-giraldo-760b2522b/)  
 📌 **Portafolio**: _Próximamente_  
-
----
-
-## 🎨 Frases Inspiradoras  
-
-> "La perfección no se alcanza cuando no hay nada más que agregar, sino cuando no hay nada más que quitar." – Antoine de Saint-Exupéry.  
-
-> "El software es una gran combinación entre arte e ingeniería." – Bill Gates.  
-
-> "No se trata solo de código, sino de crear experiencias."  
 
 ---
